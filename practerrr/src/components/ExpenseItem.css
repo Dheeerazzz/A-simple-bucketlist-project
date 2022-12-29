@@ -1,0 +1,12 @@
+.expense-item{
+    font-weight:400;
+    font-size: x-large;
+    box-shadow: burlywood;
+    box-sizing: border-box;
+    text-shadow: darkseagreen;
+}
+.expense-item:hover{
+    transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    animation: forwards;
+
+}
